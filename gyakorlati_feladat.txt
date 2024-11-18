@@ -1,0 +1,14 @@
+Gyakorlati feladat (órai munka):
+
+1. Készíts egy weboldalt keplink.html néven!
+2. Készítsd el az alap html szerkezetet!
+3. Állítsd a nyelvet magyarra!
+4. A weboldal címe legyen: Kép+link feladat
+5. Készíts címsort Kép+link feladat néven!
+6. Tölts le egy képet a www.pixabay.com weboldalról, a téma: ősz.
+7. A fájl-t nevezd el osz-nek, a kiterjesztés vagy jpg vagy png legyen.
+8. Töltsd fel a Github-ra az img mappába az osz.jpg vagy osz.png képet.
+9. Helyezd el a képet a címsor alá, ha nem jeleníthető meg a kép vagy ha az egeret a kép felé visszük azt írja ki, hogy ősz.
+10. Készíts a képből linket, amely egy új oldalon nyitja meg a következő weboldalt: https://hu.wikipedia.org/wiki/Ősz
+11. Készíts a weboldaladra navigációt ennek az oldalnak, hogy a főoldalról is elérhető legyen és erről az oldalról is vissza tudj menni a főoldalra.
+12. Küldd be a linkedet a Kréta DKT felületén az óra végéig.
