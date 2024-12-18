@@ -1,6 +1,7 @@
 body {
     background-color: rgb(163, 0, 203);
     color: white;
+    font-size: large;
 }
 
 table {
@@ -14,4 +15,8 @@ table {
 
 tr:hover {
     background-color: darkmagenta;
+}
+
+th, td {
+    height: 50px;
 }
