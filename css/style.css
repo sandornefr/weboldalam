@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(163, 0, 203);
+    color: white;
+}
+
+table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background-color: darkmagenta;
+}
